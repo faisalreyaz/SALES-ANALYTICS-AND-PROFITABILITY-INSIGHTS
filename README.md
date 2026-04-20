@@ -116,3 +116,9 @@ Developed an **interactive Power BI dashboard** that:
 This dashboard demonstrates how **Business Intelligence tools like Power BI** can transform raw data into meaningful insights, enabling organizations to move from:
 
 > ❌ Static Reporting → ✅ Data-Driven Decision Making 
+
+---
+
+## 🏷️ Tags
+`#DataAnalytics` `#Automation` `#DataVisualization` `#BusinessIntelligence` ` #DataAnalytics` `#SalesAnalytics `
+`#DataVisualization`   
